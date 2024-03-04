@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Peruvian Sign Language (PSL) - Spanish Online Dictionary"
+excerpt: "Online diccionary where you can search a word in spanish using your webcam and AI <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
