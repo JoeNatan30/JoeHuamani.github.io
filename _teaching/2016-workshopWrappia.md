@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2016-workshopWrappia
 venue: "PUCP, Engineering faculty"
-date: 2016-15-12
+date: 2016-12-15
 location: "Lima, Peru"
 ---
 
