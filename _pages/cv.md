@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Informatic Engineering, Pontifical Catholic University of Peru (PUCP), 2010-2019
+* Student Exchange, Nanzan University 南山大学, 2017-2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2023: Research Assistant
+  * PUCP
+  * Duties included: Implementation of a Sign Language recognition (SLR) Model, deployment of inference of the SLR model in an AWS environment using AWS SageMaker for a website, Development of the first online dictionary of Peruvian Sign Language - Spanish.  
+  * Mentor: Gissella Bejarano Nicho (PhD)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: app developer
+  * Grupo Intelimedia SAC
+  * Duties included: developing and maintenance of apps for restaurants and hotels using Android and React Native
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * pytorch
+  * numpy
+  * MatplotLib
+  * pandas
+* AWS
+  * Sagemaker
+  * Lambda
+  * Route 53
+  * S3
+  * ACM
+* Git
+  * Github
+* SQL
+* C++
+* React Native
+* Microsoft Office
 
 Publications
 ======
@@ -59,6 +64,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
+  <ul>{% for post in site.leadership reversed %}
+    {% include archive-single-leadership.html %}
+  {% endfor %}</ul>
+
 * Currently signed in to 43 different slack teams

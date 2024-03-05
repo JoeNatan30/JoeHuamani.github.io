@@ -267,6 +267,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _leadership
+  - scope:
+      path: ""
+      type: leadership
+    values:
+      layout: leadership
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
