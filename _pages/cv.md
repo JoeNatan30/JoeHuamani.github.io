@@ -28,12 +28,9 @@ Work experience
   
 Skills
 ======
-* Python
-  |pytorch|numpy|MatplotLib|pandas|
-* AWS
-  |Sagemaker|Lambda|Route 53|S3|ACM|
-* Git
-  |Github|
+* Python (pytorch, numpy, MatplotLib,pandas)
+* AWS (Sagemaker, Lambda, Route 53, S3, ACM)
+* Git (Github, bitbucket)
 * SQL
 * C++
 * React Native
