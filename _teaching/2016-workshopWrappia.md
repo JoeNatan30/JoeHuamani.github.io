@@ -9,8 +9,8 @@ location: "Lima, Peru"
 ---
 
 I participated as an organizer in the attendees' section at the Third workshop on Pattern Recognition and Applied Artificial Intelligence (WRAPPIA2016).
-<!-- 
-Heading 1
+
+<!-- Heading 1
 ======
 
 Heading 2
