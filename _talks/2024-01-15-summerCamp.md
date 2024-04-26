@@ -4,7 +4,7 @@ collection: talks
 type: "SummerCamp Talk"
 permalink: /talks/2024-01-15-summerCamp
 venue: "PUCP, Informatic Engeering Faculty, IA-PUCP"
-date: 2012-03-01
+date: 2024-01-15
 location: "Lima, Peru"
 ---
 
