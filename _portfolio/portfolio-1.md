@@ -1,6 +1,6 @@
 ---
-title: "Peruvian Sign Language (PSL) - Spanish Online Dictionary"
-excerpt: "Online diccionary where you can search a word in spanish using your webcam and AI <br/><img src='/images/500x300.png'>"
+title: "Online Dictionary of Peruvian Sign Language (PSL) - Spanish"
+excerpt: "The first Online diccionary of Peruvian Sign Language in Peru. Where users can search for Spanish words using their webcam. It features an AI service for sign language recognition <br/><img src='/images/diccionario.png'>"
 collection: portfolio
 ---
 
