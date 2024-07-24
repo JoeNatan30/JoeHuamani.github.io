@@ -5,12 +5,11 @@ permalink: /publication/2023-12-13-simbig2022-incrementalLearing
 excerpt: 'Machine Learning-based Sign Language Dictionaries recognize a sign performed in front of a camera and return the most probable written language word. Due to the scarce number and variety of datasets for sign languages, these dictionaries need an incremental approach to include new signs each time a new dataset is available. Current sign language recognition models used in these dictionaries are trained for a fixed number of classes. For this reason, our work systematically compares three incremental learning approaches in a skeleton and transformer-based sign language recognition model to train up to 60 classes or Peruvian Sign Language (LSP) signs. In addition, we also evaluate two distinct incremental groups: only taking new classes and, taking new instance of old and new classes. This last incremental group is considerably less explored compared to the incremental approach involving only new classes at each step. We found that a method inspired by distillation loss outperforms others in most scenarios.'
 date: 2023-12-13
 venue: '10th International Conference on Information Management and Big Data'
-paperurl: '(to be published)'
-citation: '(to be published)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-63616-5_7'
+citation: 'Huamani-Malca, J., Bejarano, G. (2024).  Comparing Incremental Learning Approaches for a Growing Sign Language Dictionary. In: Lossio-Ventura, J.A., <i>et al.</i> Information Management and Big Data. SIMBig 2023. Communications in Computer and Information Science, vol 2142. Springer, Cham. https://doi.org/10.1007/978-3-031-63616-5_7'
 ---
 
-<a href='(to be published)'>Download paper here</a>
 
 Machine Learning-based Sign Language Dictionaries recognize a sign performed in front of a camera and return the most probable written language word. Due to the scarce number and variety of datasets for sign languages, these dictionaries need an incremental approach to include new signs each time a new dataset is available. Current sign language recognition models used in these dictionaries are trained for a fixed number of classes. For this reason, our work systematically compares three incremental learning approaches in a skeleton and transformer-based sign language recognition model to train up to 60 classes or Peruvian Sign Language (LSP) signs. In addition, we also evaluate two distinct incremental groups: only taking new classes and, taking new instance of old and new classes. This last incremental group is considerably less explored compared to the incremental approach involving only new classes at each step. We found that a method inspired by distillation loss outperforms others in most scenarios.
 
-Recommended citation: (to be published)
+Recommended citation: Huamani-Malca, J., Bejarano, G. (2024).  Comparing Incremental Learning Approaches for a Growing Sign Language Dictionary. In: Lossio-Ventura, J.A., <i>et al.</i> Information Management and Big Data. SIMBig 2023. Communications in Computer and Information Science, vol 2142. Springer, Cham. https://doi.org/10.1007/978-3-031-63616-5_7

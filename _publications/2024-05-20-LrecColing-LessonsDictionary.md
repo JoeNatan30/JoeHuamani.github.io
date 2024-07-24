@@ -1,0 +1,17 @@
+---
+title: "Lessons from Deploying the First Bilingual Peruvian Sign Language-Spanish Online Dictionary"
+collection: publications
+permalink: /publication/2024-05-20-LrecColing-LessonsDictionary
+excerpt: 'Bilingual dictionaries present several challenges, especially for sign languages and oral languages, where multimodality plays a role. We deployed and tested the first bilingual Peruvian Sign Language (LSP)-Spanish Online Dictionary. The first feature allows the user to introduce a text and receive as a result a list of videos whose glosses are related to the input text or Spanish word. The second feature allows the user to sign in front of the camera and shows the five most probable Spanish translations based on the similarity between the input sign and gloss-labeled sign videos used to train a machine learning model. These features are constructed in a design and architecture that differentiates among the coincidence for the Spanish text searched, the sign gloss, and Spanish translation. We explain in depth how these concepts or database columns impact the search. Similarly, we share the challenges of deploying a real-world machine learning model for isolated sign language recognition through Amazon Web Services (AWS).'
+
+date: 2024-05-20
+venue: 'Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)'
+paperurl: 'https://aclanthology.org/2024.lrec-main.901.pdf'
+citation: 'Joe Huamani-Malca, Miguel Rodriguez Mondoñedo, Francisco Cerna-Herrera, Gissella Bejarano, Carlos Vásquez Roque, Cesar Augusto Ramos Cantu, and Sabina Oporto Pérez. 2024. Lessons from Deploying the First Bilingual Peruvian Sign Language - Spanish Online Dictionary. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 10316–10323, Torino, Italia. ELRA and ICCL.'
+---
+
+<a href='https://aclanthology.org/2024.lrec-main.901.pdf'>Download paper here</a>
+
+Bilingual dictionaries present several challenges, especially for sign languages and oral languages, where multimodality plays a role. We deployed and tested the first bilingual Peruvian Sign Language (LSP)-Spanish Online Dictionary. The first feature allows the user to introduce a text and receive as a result a list of videos whose glosses are related to the input text or Spanish word. The second feature allows the user to sign in front of the camera and shows the five most probable Spanish translations based on the similarity between the input sign and gloss-labeled sign videos used to train a machine learning model. These features are constructed in a design and architecture that differentiates among the coincidence for the Spanish text searched, the sign gloss, and Spanish translation. We explain in depth how these concepts or database columns impact the search. Similarly, we share the challenges of deploying a real-world machine learning model for isolated sign language recognition through Amazon Web Services (AWS).
+
+Recommended citation: Joe Huamani-Malca, Miguel Rodriguez Mondoñedo, Francisco Cerna-Herrera, Gissella Bejarano, Carlos Vásquez Roque, Cesar Augusto Ramos Cantu, and Sabina Oporto Pérez. 2024. Lessons from Deploying the First Bilingual Peruvian Sign Language - Spanish Online Dictionary. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 10316–10323, Torino, Italia. ELRA and ICCL.
